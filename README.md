@@ -6,4 +6,6 @@ ExcilysLabs_CentrerImageCSS
 
 <http://labs.excilys.com/2011/03/30/centrer-une-image-dans-un-bloc-en-css/>
 
-> ## *Page Exemple*
+> ## *Page d'exemple*
+
+> <http://athomas.github.com/ExcilysLabs_CentrerImageCSS/>
