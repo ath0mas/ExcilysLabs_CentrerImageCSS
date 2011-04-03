@@ -1,0 +1,56 @@
+
+body {
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	font-size: 12px;
+	margin: 0;
+}
+
+#contentBlue {
+	margin: 50px;
+	padding: 20px;
+	height: 400px;
+	width: 400px;
+	background-color: rgba(0, 25, 150, 0.7);
+	color: #fff;
+	outline-offset: -3px;
+	outline: 3px dashed #fff;
+}
+#contentBlue div {
+	clear: both;
+}
+
+#contentBlue span {
+	float: left;
+}
+#contentBlue span.titre {
+	font-size: 14px;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #000;
+}
+#contentBlue span.texte {
+	text-shadow: 0 0 2px #fff;
+}
+
+#contentBlue .cadreImage {
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	-moz-box-shadow: 5px 5px 2px rgba(200, 200, 200, 0.1);
+	-webkit-box-shadow: 5px 5px 2px rgba(200, 200, 200, 0.1);
+	box-shadow: 5px 5px 2px rgba(200, 200, 200, 0.1);
+	background-color: rgba(200, 200, 200, 0.5);
+	margin: 80px auto 0;
+	padding: 5px;
+	height: 300px;
+	width: 250px;
+	position: relative;
+}
+#contentBlue .cadreImage img {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	max-height: 200px;
+	max-width: 150px;
+}
